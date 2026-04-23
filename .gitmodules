@@ -1,0 +1,3 @@
+[submodule "room4"]
+    path = room4
+    url = https://github.com/your-repo/room4.git
